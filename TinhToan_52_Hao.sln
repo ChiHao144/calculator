@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinhToan_52_Hao", "TinhToan_52_Hao\TinhToan_52_Hao.csproj", "{1BDEE0FA-0091-436F-85EA-874A4D457875}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest_TinhToan_52_Hao", "UnitTest_52_Hao\UnitTest_TinhToan_52_Hao.csproj", "{112502C1-E907-4E0E-8844-3B1CFC8C2A59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BDEE0FA-0091-436F-85EA-874A4D457875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BDEE0FA-0091-436F-85EA-874A4D457875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BDEE0FA-0091-436F-85EA-874A4D457875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BDEE0FA-0091-436F-85EA-874A4D457875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{112502C1-E907-4E0E-8844-3B1CFC8C2A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{112502C1-E907-4E0E-8844-3B1CFC8C2A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{112502C1-E907-4E0E-8844-3B1CFC8C2A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{112502C1-E907-4E0E-8844-3B1CFC8C2A59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7CC7C79-9632-4B1D-A004-945ED5A63D96}
+	EndGlobalSection
+EndGlobal
